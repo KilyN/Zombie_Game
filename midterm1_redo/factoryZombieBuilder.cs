@@ -11,8 +11,6 @@ namespace midterm1_redo
     class factoryZombieBuilder
     {
 
-        //public AbstractComp eachTypeZ=null;
-        //public AbstractComp regularZ = null;
 
         /// <summary>
         /// make regular Zombie and return
@@ -42,17 +40,7 @@ namespace midterm1_redo
             return new ScreenDoor(bZ);
         }
 
-        //public Decorator getResult() // put zombie with accessory
-        //{
-        //    Decorator result = new Decorator();
-
-        //    if (eachTypeZ != null)
-        //        result.add(eachTypeZ);
-        //    result.add(regularZ);
-
-        //    return result;
-        //} 
-
+     
 
     }
 

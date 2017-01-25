@@ -1,1 +1,7 @@
 C:\Users\kily\Documents\Fall2016\CPTS487\midterm2\ZombieGame\midterm1_redo\bin\Debug\midterm1_redo.exe.config
+C:\GithubKily\Zombie_Game\midterm1_redo\bin\Debug\midterm1_redo.exe.config
+C:\GithubKily\Zombie_Game\midterm1_redo\bin\Debug\midterm1_redo.exe
+C:\GithubKily\Zombie_Game\midterm1_redo\bin\Debug\midterm1_redo.pdb
+C:\GithubKily\Zombie_Game\midterm1_redo\obj\Debug\Zombie.csprojResolveAssemblyReference.cache
+C:\GithubKily\Zombie_Game\midterm1_redo\obj\Debug\midterm1_redo.exe
+C:\GithubKily\Zombie_Game\midterm1_redo\obj\Debug\midterm1_redo.pdb
